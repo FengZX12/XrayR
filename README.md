@@ -5,9 +5,6 @@ A Xray backend framework that can easily support many panels.
 
 Find the source code here: [FengZX12/XrayR](https://github.com/FengZX12/XrayR)
 
-# 详细使用教程
-
-[教程](https://xrayrr.gitbook.io/xrayr-doc/)
 
 # 一键安装
 
