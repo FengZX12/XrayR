@@ -1,7 +1,7 @@
 # XrayR
 
 ```
-自用脚本，有需要可以拿去用
+自用脚本，有需要可以拿去用[目前未完工]
 ```
 
 A Xray backend framework that can easily support many panels.
